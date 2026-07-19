@@ -30,7 +30,7 @@ I'm a Computer Science graduate interested in creating practical, clean, and use
 | --- | --- | --- |
 | **SafeScroll** | A personalized YouTube Shorts filtering Chrome extension that helps users control unwanted content. | JavaScript, Chrome Extension, HTML, CSS |
 | **TECO Group Website** | A multi-page industrial business website with service, project, company, and contact sections. | WordPress, Elementor, HTML, CSS |
-| **Student Management System** | A database project for organizing and managing student information. | SQL Server |
+| **hospital Management System** | A database project for organizing and managing patient information. | c# |
 
 <div align="center">
   <a href="https://github.com/beeni94?tab=repositories"><b>View all repositories →</b></a>
