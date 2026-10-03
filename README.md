@@ -29,7 +29,7 @@ I'm a Computer Science graduate interested in creating practical, clean, and use
 | Project | What it does | Technologies |
 | --- | --- | --- |
 | **SafeScroll** | A personalized YouTube Shorts filtering Chrome extension that helps users control unwanted content. | JavaScript, Chrome Extension, HTML, CSS |
-| **TECO Group Website** | A multi-page industrial business website with service, project, company, and contact sections. | WordPress, Elementor, HTML, CSS |
+| **AURA Group Website** | A multi-page industrial business website with service, project, company, and contact sections. | WordPress, Elementor, HTML, CSS |
 | **hospital Management System** | A database project for organizing and managing patient information. | C# |
 
 <div align="center">
